@@ -131,7 +131,7 @@ ob_start();
                   <div class="widget-featured-products mb_36">
                      <div class="featured-product-item">
                         <a href="product-detail.html" class="card-product-wrapper">
-                        <img class="lazyload img-product" data-src="images/products/img-feature-1.png" alt="image-feature">
+                        <img class="lazyload img-product" data-src="assets/images/item/item-3.png" alt="image-feature">
                         </a>
                         <div class="card-product-info">
                            <a href="#" class="title link">Intel Core i7 Processor</a>
@@ -140,7 +140,7 @@ ob_start();
                      </div>
                      <div class="featured-product-item">
                         <a href="product-detail.html" class="card-product-wrapper">
-                        <img class="lazyload img-product" data-src="images/products/img-feature-2.png" alt="image-feature">
+                        <img class="lazyload img-product" data-src="assets/images/item/item-1.png" alt="image-feature">
                         </a>
                         <div class="card-product-info">
                            <a href="#" class="title link">NVIDIA RTX 3070 Graphics Card</a>
@@ -149,7 +149,7 @@ ob_start();
                      </div>
                      <div class="featured-product-item">
                         <a href="product-detail.html" class="card-product-wrapper">
-                        <img class="lazyload img-product" data-src="images/products/img-feature-3.png" alt="image-feature">
+                        <img class="lazyload img-product" data-src="assets/images/item/item-2.png" alt="image-feature">
                         </a>
                         <div class="card-product-info">
                            <a href="#" class="title link">Corsair 16GB DDR4 RAM</a>
@@ -198,8 +198,8 @@ ob_start();
                <div class="card-product">
                   <div class="card-product-wrapper">
                      <a href="product-detail.html" class="product-img">
-                     <img class="lazyload img-product" data-src="images/products/intel-i7.jpg" src="images/products/intel-i7.jpg" alt="Intel Core i7 Processor">
-                     <img class="lazyload img-hover" data-src="images/products/intel-i7-hover.jpg" src="images/products/intel-i7-hover.jpg" alt="Intel Core i7 Processor Hover">
+                     <img class="lazyload img-product" data-src="assets/images/item/item-3.png" src="images/products/intel-i7.jpg" alt="Intel Core i7 Processor">
+                     <img class="lazyload img-hover" data-src="assets/images/item/item-3.png" src="images/products/intel-i7-hover.jpg" alt="Intel Core i7 Processor Hover">
                      </a>
                      <div class="list-product-btn absolute-2">
                         <a href="#quick_add" data-bs-toggle="modal" class="box-icon bg_white quick-add tf-btn-loading">
@@ -231,8 +231,8 @@ ob_start();
                <div class="card-product">
                   <div class="card-product-wrapper">
                      <a href="product-detail.html" class="product-img">
-                     <img class="lazyload img-product" data-src="images/products/rtx-3070.jpg" src="images/products/rtx-3070.jpg" alt="NVIDIA RTX 3070 Graphics Card">
-                     <img class="lazyload img-hover" data-src="images/products/rtx-3070-hover.jpg" src="images/products/rtx-3070-hover.jpg" alt="NVIDIA RTX 3070 Graphics Card Hover">
+                     <img class="lazyload img-product" data-src="assets/images/item/item-1.png" src="images/products/rtx-3070.jpg" alt="NVIDIA RTX 3070 Graphics Card">
+                     <img class="lazyload img-hover" data-src="assets/images/item/item-1.png" src="images/products/rtx-3070-hover.jpg" alt="NVIDIA RTX 3070 Graphics Card Hover">
                      </a>
                      <div class="list-product-btn absolute-2">
                         <a href="#quick_add" data-bs-toggle="modal" class="box-icon bg_white quick-add tf-btn-loading">
@@ -264,8 +264,8 @@ ob_start();
                <div class="card-product">
                   <div class="card-product-wrapper">
                      <a href="product-detail.html" class="product-img">
-                     <img class="lazyload img-product" data-src="images/products/corsair-16gb.jpg" src="images/products/corsair-16gb.jpg" alt="Corsair 16GB DDR4 RAM">
-                     <img class="lazyload img-hover" data-src="images/products/corsair-16gb-hover.jpg" src="images/products/corsair-16gb-hover.jpg" alt="Corsair 16GB DDR4 RAM Hover">
+                     <img class="lazyload img-product" data-src="assets/images/item/item-2.png" src="images/products/corsair-16gb.jpg" alt="Corsair 16GB DDR4 RAM">
+                     <img class="lazyload img-hover" data-src="assets/images/item/item-2.png" src="images/products/corsair-16gb-hover.jpg" alt="Corsair 16GB DDR4 RAM Hover">
                      </a>
                      <div class="list-product-btn absolute-2">
                         <a href="#quick_add" data-bs-toggle="modal" class="box-icon bg_white quick-add tf-btn-loading">
@@ -297,8 +297,8 @@ ob_start();
                <div class="card-product">
                   <div class="card-product-wrapper">
                      <a href="product-detail.html" class="product-img">
-                     <img class="lazyload img-product" data-src="images/products/samsung-ssd.jpg" src="images/products/samsung-ssd.jpg" alt="Samsung 1TB SSD">
-                     <img class="lazyload img-hover" data-src="images/products/samsung-ssd-hover.jpg" src="images/products/samsung-ssd-hover.jpg" alt="Samsung 1TB SSD Hover">
+                     <img class="lazyload img-product" data-src="assets/images/item/item-2.png" src="images/products/samsung-ssd.jpg" alt="Samsung 1TB SSD">
+                     <img class="lazyload img-hover" data-src="assets/images/item/item-2.png" src="images/products/samsung-ssd-hover.jpg" alt="Samsung 1TB SSD Hover">
                      </a>
                      <div class="list-product-btn absolute-2">
                         <a href="#quick_add" data-bs-toggle="modal" class="box-icon bg_white quick-add tf-btn-loading">

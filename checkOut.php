@@ -70,7 +70,7 @@ ob_start();
                         <ul class="wrap-checkout-product">
                             <li class="checkout-product-item">
                                 <figure class="img-product">
-                                    <img src="images/products/brown.jpg" alt="product">
+                                    <img src="assets/images/item/item-1.png" alt="product">
                                     <span class="quantity">1</span>
                                 </figure>
                                 <div class="content">
@@ -83,7 +83,7 @@ ob_start();
                             </li>
                             <li class="checkout-product-item">
                                 <figure class="img-product">
-                                    <img src="images/products/kid-12.jpg" alt="product">
+                                    <img src="assets/images/item/item-4.png" alt="product">
                                     <span class="quantity">1</span>
                                 </figure>
                                 <div class="content">
@@ -95,7 +95,7 @@ ob_start();
                             </li>
                             <li class="checkout-product-item">
                                 <figure class="img-product">
-                                    <img src="images/products/beige-2.jpg" alt="product">
+                                    <img src="assets/images/item/item-3.png" alt="product">
                                     <span class="quantity">1</span>
                                 </figure>
                                 <div class="content">

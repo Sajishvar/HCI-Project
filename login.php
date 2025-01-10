@@ -20,7 +20,10 @@ ob_start();
           <input type="password" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
         </div>
         <button style="background-color: #ff5959; color: #fff; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">Create Account</button>
-        <button style="background-color: #fff; color: #4285F4; border: 1px solid #4285F4; padding: 10px 20px; border-radius: 5px; cursor: pointer; display: flex; align-items: center;"><img src="google-logo.png" alt="Google Logo" style="margin-right: 10px;">Sign up with Google</button>
+        <br>
+        <p>Or</p>
+        <button style="background-color: #fff; color: #4285F4; border: 1px solid #4285F4; padding: 10px 20px; border-radius: 5px; cursor: pointer; display: flex; align-items: center;"><img src="assets/images/brands/google.svg" alt="Google Logo" style="margin-right: 10px;" width="30">Sign up with Google</button>
+        <p style="text-align: center;"><small>By clicking the button, you agree to our <a href="#" style="color: #ff5959; text-decoration: none;">Terms & Conditions</a></small></p>
         <div style="text-align: center; margin-top: 10px;">Already have an account? <a href="#" style="color: #ff5959; text-decoration: none;">Log in</a></div>
       </form>
     </div>

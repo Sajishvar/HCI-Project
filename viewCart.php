@@ -36,7 +36,7 @@ ob_start();
                             <tr class="tf-cart-item file-delete">
                                 <td class="tf-cart-item_product">
                                     <a href="product-detail.html" class="img-box">
-                                        <img src="images/products/white-2.jpg" alt="img-product">
+                                        <img src="assets/images/item/item-1.png" alt="img-product">
                                     </a>
                                     <div class="cart-info">
                                         <a href="product-detail.html" class="cart-title link">RTX 4060</a>
@@ -67,7 +67,7 @@ ob_start();
                             <tr class="tf-cart-item file-delete">
                                 <td class="tf-cart-item_product">
                                     <a href="product-detail.html" class="img-box">
-                                        <img src="images/products/orange-1.jpg" alt="img-product">
+                                        <img src="assets/images/item/item-4.png" alt="img-product">
                                     </a>
                                     <div class="cart-info">
                                         <a href="product-detail.html" class="cart-title link">Cooling Fan</a>
@@ -98,7 +98,7 @@ ob_start();
                             <tr class="tf-cart-item file-delete">
                                 <td class="tf-cart-item_product">
                                     <a href="product-detail.html" class="img-box">
-                                        <img src="images/products/black-4.jpg" alt="img-product">
+                                        <img src="assets/images/item/item-3.png" alt="img-product">
                                     </a>
                                     <div class="cart-info">
                                         <a href="product-detail.html" class="cart-title link">PSU</a>

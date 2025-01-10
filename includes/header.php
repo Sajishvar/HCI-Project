@@ -162,7 +162,7 @@
                         <li class="nav-search"><a href="#canvasSearch" data-bs-toggle="offcanvas"
                                 aria-controls="offcanvasLeft" class="nav-icon-item"><i class="icon icon-search"></i></a>
                         </li>
-                        <li class="nav-account"><a href="#login" data-bs-toggle="modal"
+                        <li class="nav-account"><a href="./login.php" data-bs-toggle="modal"
                                 class="nav-icon-item align-items-center gap-10"><i class="icon icon-account"></i> <span
                                     class="text">Login</span></a></li>
                         <li class="nav-compare"><a href="compare.html"
@@ -171,7 +171,7 @@
                         <li class="nav-wishlist"><a href="wishlist.html"
                                 class="nav-icon-item  align-items-center gap-10"><i class="icon icon-heart"></i><span
                                     class="text">Wishlist</span></a></li>
-                        <li class="nav-cart cart-lg"><a href="#shoppingCart" data-bs-toggle="modal"
+                        <li class="nav-cart cart-lg"><a href="./viewCart.php" data-bs-toggle="modal"
                                 class="nav-icon-item"><i class="icon icon-bag"></i><span class="count-box">6</span></a>
                         </li>
                     </ul>
@@ -303,7 +303,7 @@
                                 </div>
                             </li>
                             <li class="menu-item"><a href="#" class="item-link">About us</a></li>
-                            <li class="menu-item"><a href="#" class="item-link">Contct us</a></li>
+                            <li class="menu-item"><a href="#" class="item-link">Contact us</a></li>
                         </ul>
                     </nav>
                 </div>

@@ -46,7 +46,7 @@
         <script type="text/javascript" src="assets/js/count-down.js"></script>
         <script type="text/javascript" src="assets/js/wow.min.js"></script>
         <script type="text/javascript" src="assets/js/multiple-modal.js"></script>
-        <script type="text/javascript" src="assets/js/main.js"></script>\
+        <script type="text/javascript" src="assets/js/main.js"></script>
         <script type="text/javascript" src="assets/js/timer.js"></script>
 
         <!-- gotop -->

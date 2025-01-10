@@ -5,40 +5,50 @@ ob_start();
 
 <!-- Slider -->
 <div class="tf-slideshow slider-home-2 slider-effect-fade position-relative">
-    <div dir="ltr" class="swiper tf-sw-slideshow" data-preview="1" data-tablet="1" data-mobile="1" data-centered="false" data-space="0" data-loop="true" data-auto-play="true" data-delay="2000" data-speed="1000">
+    <div dir="ltr" class="swiper tf-sw-slideshow" data-preview="1" data-tablet="1" data-mobile="1" data-centered="false"
+        data-space="0" data-loop="true" data-auto-play="true" data-delay="2000" data-speed="1000">
         <div class="swiper-wrapper">
             <div class="swiper-slide" lazy="true">
                 <div class="wrap-slider">
-                    <img class="lazyload" data-src="assets/images/slider/Slideshow_Electronics1.jpg" src="images/slider/Slideshow_Electronics1.jpg" alt="fashion-slideshow-01">
+                    <img class="lazyload" data-src="assets/images/slider/Slideshow_Electronics1.jpg"
+                        src="images/slider/Slideshow_Electronics1.jpg" alt="fashion-slideshow-01">
                     <div class="box-content">
                         <div class="container">
                             <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
                             <h1 class="fade-item fade-item-2">Savings for<br> dads and grads.</h1>
-                            <a href="productList.php" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                            <a href="productList.php"
+                                class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop
+                                    collection</span><i class="icon icon-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="swiper-slide" lazy="true">
                 <div class="wrap-slider">
-                    <img class="lazyload" data-src="assets/images/slider/Slideshow_Electronics2.jpg" src="images/slider/Slideshow_Electronics2.jpg" alt="fashion-slideshow-01">
+                    <img class="lazyload" data-src="assets/images/slider/Slideshow_Electronics2.jpg"
+                        src="images/slider/Slideshow_Electronics2.jpg" alt="fashion-slideshow-01">
                     <div class="box-content">
                         <div class="container">
                             <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
                             <h1 class="fade-item fade-item-2">Modern design</h1>
-                            <a href="productList.php" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                            <a href="productList.php"
+                                class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop
+                                    collection</span><i class="icon icon-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="swiper-slide" lazy="true">
                 <div class="wrap-slider">
-                    <img class="lazyload" data-src="assets/images/slider/Slideshow_Electronics3.jpg" src="images/slider/Slideshow_Electronics3.jpg" alt="fashion-slideshow-01">
+                    <img class="lazyload" data-src="assets/images/slider/Slideshow_Electronics3.jpg"
+                        src="images/slider/Slideshow_Electronics3.jpg" alt="fashion-slideshow-01">
                     <div class="box-content">
                         <div class="container">
                             <p class="fade-item fade-item-1">UP TO 40% OFF CHARGERS AND MORE.</p>
                             <h1 class="fade-item fade-item-2">Fast charging</h1>
-                            <a href="productList.php" class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
+                            <a href="productList.php"
+                                class="fade-item fade-item-3 rounded-full tf-btn btn-fill animate-hover-btn btn-xl radius-3"><span>Shop
+                                    collection</span><i class="icon icon-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -65,15 +75,18 @@ ob_start();
                 </div>
             </div>
             <div class="sw-pagination-wrapper">
-                <div dir="ltr" class="swiper tf-sw-collection" data-preview="4" data-tablet="3" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="15" data-loop="false" data-auto-play="false">
+                <div dir="ltr" class="swiper tf-sw-collection" data-preview="4" data-tablet="3" data-mobile="1"
+                    data-space-lg="30" data-space-md="30" data-space="15" data-loop="false" data-auto-play="false">
                     <div class="swiper-wrapper">
                         <!-- Product 1 -->
                         <div class="swiper-slide" lazy="true">
                             <div class="collection-item-v2 type-small hover-img">
                                 <a href="product-1.html" class="collection-inner">
                                     <div class="collection-image img-style radius-10 position-relative">
-                                        <img class="lazyload" data-src="images/sales/graphic-card.jpg" src="images/sales/graphic-card.jpg" alt="Graphic Card">
-                                        <span class="offer-tag position-absolute bg-danger text-white rounded">20% OFF</span>
+                                        <img class="lazyload" data-src="images/sales/graphic-card.jpg"
+                                            src="images/sales/graphic-card.jpg" alt="Graphic Card">
+                                        <span class="offer-tag position-absolute bg-danger text-white rounded">20%
+                                            OFF</span>
                                     </div>
                                     <div class="collection-content">
                                         <div class="top">
@@ -94,8 +107,10 @@ ob_start();
                             <div class="collection-item-v2 type-small hover-img">
                                 <a href="product-2.html" class="collection-inner">
                                     <div class="collection-image img-style radius-10 position-relative">
-                                        <img class="lazyload" data-src="images/sales/ssd.jpg" src="images/sales/ssd.jpg" alt="SSD">
-                                        <span class="offer-tag position-absolute bg-danger text-white rounded">15% OFF</span>
+                                        <img class="lazyload" data-src="images/sales/ssd.jpg" src="images/sales/ssd.jpg"
+                                            alt="SSD">
+                                        <span class="offer-tag position-absolute bg-danger text-white rounded">15%
+                                            OFF</span>
                                     </div>
                                     <div class="collection-content">
                                         <div class="top">
@@ -116,8 +131,10 @@ ob_start();
                             <div class="collection-item-v2 type-small hover-img">
                                 <a href="product-3.html" class="collection-inner">
                                     <div class="collection-image img-style radius-10 position-relative">
-                                        <img class="lazyload" data-src="images/sales/cpu.jpg" src="images/sales/cpu.jpg" alt="CPU">
-                                        <span class="offer-tag position-absolute bg-danger text-white rounded">10% OFF</span>
+                                        <img class="lazyload" data-src="images/sales/cpu.jpg" src="images/sales/cpu.jpg"
+                                            alt="CPU">
+                                        <span class="offer-tag position-absolute bg-danger text-white rounded">10%
+                                            OFF</span>
                                     </div>
                                     <div class="collection-content">
                                         <div class="top">
@@ -138,8 +155,10 @@ ob_start();
                             <div class="collection-item-v2 type-small hover-img">
                                 <a href="product-4.html" class="collection-inner">
                                     <div class="collection-image img-style radius-10 position-relative">
-                                        <img class="lazyload" data-src="images/sales/motherboard.jpg" src="images/sales/motherboard.jpg" alt="Motherboard">
-                                        <span class="offer-tag position-absolute bg-danger text-white rounded">25% OFF</span>
+                                        <img class="lazyload" data-src="images/sales/motherboard.jpg"
+                                            src="images/sales/motherboard.jpg" alt="Motherboard">
+                                        <span class="offer-tag position-absolute bg-danger text-white rounded">25%
+                                            OFF</span>
                                     </div>
                                     <div class="collection-content">
                                         <div class="top">
@@ -167,24 +186,24 @@ ob_start();
 <!-- /Flash Sales -->
 
 <script>
-    // Timer Script
-    const countdownDate = new Date().getTime() + 24 * 60 * 60 * 1000; // 24 hours from now
+// Timer Script
+const countdownDate = new Date().getTime() + 24 * 60 * 60 * 1000; // 24 hours from now
 
-    const timerFunction = setInterval(() => {
-        const now = new Date().getTime();
-        const distance = countdownDate - now;
+const timerFunction = setInterval(() => {
+    const now = new Date().getTime();
+    const distance = countdownDate - now;
 
-        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-        document.getElementById("timer").innerHTML = `${hours}:${minutes}:${seconds}`;
+    document.getElementById("timer").innerHTML = `${hours}:${minutes}:${seconds}`;
 
-        if (distance < 0) {
-            clearInterval(timerFunction);
-            document.getElementById("timer").innerHTML = "EXPIRED";
-        }
-    }, 1000);
+    if (distance < 0) {
+        clearInterval(timerFunction);
+        document.getElementById("timer").innerHTML = "EXPIRED";
+    }
+}, 1000);
 </script>
 
 <!-- Browse By Category Section -->
@@ -198,7 +217,8 @@ ob_start();
 
             <!-- Category Slider -->
             <div class="sw-pagination-wrapper">
-                <div dir="ltr" class="swiper tf-sw-collection" data-preview="6" data-tablet="4" data-mobile="2" data-space-lg="30" data-space-md="20" data-space="10" data-loop="false" data-auto-play="false">
+                <div dir="ltr" class="swiper tf-sw-collection" data-preview="6" data-tablet="4" data-mobile="2"
+                    data-space-lg="30" data-space-md="20" data-space="10" data-loop="false" data-auto-play="false">
                     <div class="swiper-wrapper">
                         <!-- Category Item: CPU -->
                         <div class="swiper-slide" lazy="true">
@@ -299,7 +319,8 @@ ob_start();
 
             <!-- Product Slider -->
             <div class="sw-pagination-wrapper">
-                <div dir="ltr" class="swiper tf-sw-collection" data-preview="4" data-tablet="2" data-mobile="1" data-space-lg="30" data-space-md="20" data-space="10" data-loop="false" data-auto-play="false">
+                <div dir="ltr" class="swiper tf-sw-collection" data-preview="4" data-tablet="2" data-mobile="1"
+                    data-space-lg="30" data-space-md="20" data-space="10" data-loop="false" data-auto-play="false">
                     <div class="swiper-wrapper">
                         <!-- Product 1 -->
                         <div class="swiper-slide" lazy="true">
@@ -344,7 +365,8 @@ ob_start();
                             <div class="product-item hover-img">
                                 <a href="#" class="product-inner">
                                     <div class="icon-box">
-                                        <img class="lazyload" src="images/products/product-3.jpg" alt="Mechanical Keyboard">
+                                        <img class="lazyload" src="images/products/product-3.jpg"
+                                            alt="Mechanical Keyboard">
                                     </div>
                                     <div class="product-details">
                                         <h5 class="product-name">Mechanical Keyboard</h5>
@@ -398,13 +420,16 @@ ob_start();
 <section class="flat-spacing-8 pb_0">
     <div class="container">
         <div class="tf-banner-collection">
-            <img class="lazyload" data-src="assets/images/collections/banner-collection-3.jpg" src="images/collections/banner-collection-3.jpg" alt="img-banner" loading="lazy">
+            <img class="lazyload" data-src="assets/images/collections/banner-collection-3.jpg"
+                src="images/collections/banner-collection-3.jpg" alt="img-banner" loading="lazy">
             <div class="box-content">
                 <div class="container wow fadeInUp" data-wow-delay="0s">
                     <div class="sub fw-7 text_white">SALE UP TO 30% OFF TODAY</div>
                     <h2 class="heading fw-6 text_white">Best Deals Discounts</h2>
                     <p class="text_white">Fast wireless charging on-the-go.</p>
-                    <a href="productList.php" class="rounded-full tf-btn btn-primary-main style-3 fw-6 btn-light-icon animate-hover-btn"><span>Shop Collection</span></a>
+                    <a href="productList.php"
+                        class="rounded-full tf-btn btn-primary-main style-3 fw-6 btn-light-icon animate-hover-btn"><span>Shop
+                            Collection</span></a>
                 </div>
             </div>
         </div>

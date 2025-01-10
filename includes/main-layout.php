@@ -15,8 +15,8 @@
         <link rel="stylesheet"type="text/css" href="assets/css/styles.css"/>
 
         <!-- Favicon and Touch Icons  -->
-        <link rel="shortcut icon" href="assets/images/logo/favicon.png">
-        <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png">
+        <link rel="shortcut icon" href="assets/images/logo/favicon.svg">
+        <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.svg">
         
     </head>
 
@@ -46,7 +46,8 @@
         <script type="text/javascript" src="assets/js/count-down.js"></script>
         <script type="text/javascript" src="assets/js/wow.min.js"></script>
         <script type="text/javascript" src="assets/js/multiple-modal.js"></script>
-        <script type="text/javascript" src="assets/js/main.js"></script>
+        <script type="text/javascript" src="assets/js/main.js"></script>\
+        <script type="text/javascript" src="assets/js/timer.js"></script>
 
         <!-- gotop -->
         <div class="progress-wrap">

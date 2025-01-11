@@ -33,10 +33,14 @@ ob_start();
                         <div class="select-custom">
                             <select class="tf-select w-100" id="country" name="address[country]" data-default="">
                                 <option value="---" data-provinces="[]">---</option>
-                                <option value="Australia" data-provinces="[['Australian Capital Territory','Australian Capital Territory'],['New South Wales','New South Wales'],['Northern Territory','Northern Territory'],['Queensland','Queensland'],['South Australia','South Australia'],['Tasmania','Tasmania'],['Victoria','Victoria'],['Western Australia','Western Australia']]">Australia</option>
+                                <option value="Australia"
+                                    data-provinces="[['Australian Capital Territory','Australian Capital Territory'],['New South Wales','New South Wales'],['Northern Territory','Northern Territory'],['Queensland','Queensland'],['South Australia','South Australia'],['Tasmania','Tasmania'],['Victoria','Victoria'],['Western Australia','Western Australia']]">
+                                    Australia</option>
                                 <option value="Austria" data-provinces="[]">Austria</option>
                                 <option value="Belgium" data-provinces="[]">Belgium</option>
-                                <option value="Canada" data-provinces="[['Alberta','Alberta'],['British Columbia','British Columbia'],['Manitoba','Manitoba'],['New Brunswick','New Brunswick'],['Newfoundland and Labrador','Newfoundland and Labrador'],['Northwest Territories','Northwest Territories'],['Nova Scotia','Nova Scotia'],['Nunavut','Nunavut'],['Ontario','Ontario'],['Prince Edward Island','Prince Edward Island'],['Quebec','Quebec'],['Saskatchewan','Saskatchewan'],['Yukon','Yukon']]">Canada</option>
+                                <option value="Canada"
+                                    data-provinces="[['Alberta','Alberta'],['British Columbia','British Columbia'],['Manitoba','Manitoba'],['New Brunswick','New Brunswick'],['Newfoundland and Labrador','Newfoundland and Labrador'],['Northwest Territories','Northwest Territories'],['Nova Scotia','Nova Scotia'],['Nunavut','Nunavut'],['Ontario','Ontario'],['Prince Edward Island','Prince Edward Island'],['Quebec','Quebec'],['Saskatchewan','Saskatchewan'],['Yukon','Yukon']]">
+                                    Canada</option>
                                 <option value="Czech Republic" data-provinces="[]">Czechia</option>
                             </select>
                         </div>
@@ -119,19 +123,25 @@ ob_start();
                             <div class="fieldset-radio mb_20">
                                 <input type="radio" name="payment" id="bank" class="tf-check" checked>
                                 <label for="bank">Direct bank transfer</label>
-                                
+
                             </div>
                             <div class="fieldset-radio mb_20">
                                 <input type="radio" name="payment" id="delivery" class="tf-check">
                                 <label for="delivery">Cash on delivery</label>
                             </div>
-                            <p class="text_black-2 mb_20">Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our <a href="privacy-policy.html" class="text-decoration-underline">privacy policy</a>.</p>
+                            <p class="text_black-2 mb_20">Your personal data will be used to process your order, support
+                                your experience throughout this website, and for other purposes described in our <a
+                                    href="privacy-policy.html" class="text-decoration-underline">privacy policy</a>.</p>
                             <div class="box-checkbox fieldset-radio mb_20">
                                 <input type="checkbox" id="check-agree" class="tf-check">
-                                <label for="check-agree" class="text_black-2">I have read and agree to the website <a href="terms-conditions.html" class="text-decoration-underline">terms and conditions</a>.</label>
+                                <label for="check-agree" class="text_black-2">I have read and agree to the website <a
+                                        href="terms-conditions.html" class="text-decoration-underline">terms and
+                                        conditions</a>.</label>
                             </div>
                         </div>
-                        <button class="tf-btn radius-3 btn-fill btn-icon animate-hover-btn justify-content-center">Place order</button>
+                        <a href="paymentConfirmation.php"
+                            class="tf-btn radius-3 btn-fill btn-icon animate-hover-btn justify-content-center">Place
+                            Order</a>
                     </form>
                 </div>
             </div>

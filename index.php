@@ -139,7 +139,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8 border-0 bg_grey-11">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-1.png"
                                         src="images/products/bark-phone-blue.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-1.png"
@@ -162,7 +162,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -170,7 +170,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">NVIDIA RTX 4080</a>
+                                <a href="singleProduct.php" class="title link">NVIDIA RTX 4080</a>
                                 <span class="price">$19.99</span>
                             </div>
                         </div>
@@ -178,7 +178,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8 border-0 bg_grey-11">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-2.png"
                                         src="images/products/bark-phone-blue.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-2.png"
@@ -201,7 +201,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -209,7 +209,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">Samsung 970 EVO SSD</a>
+                                <a href="singleProduct.php" class="title link">Samsung 970 EVO SSD</a>
                                 <span class="price">$19.99</span>
                             </div>
                         </div>
@@ -217,7 +217,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8 border-0 bg_grey-11">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-3.png"
                                         src="images/products/bark-phone-blue.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-3.png"
@@ -240,7 +240,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -248,7 +248,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">Intel Core i7-12700K</a>
+                                <a href="singleProduct.php" class="title link">Intel Core i7-12700K</a>
                                 <span class="price">$19.99</span>
                             </div>
                         </div>
@@ -256,7 +256,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8 border-0 bg_grey-11">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-4.png"
                                         src="images/products/bark-phone-blue.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-4.png"
@@ -279,7 +279,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -287,7 +287,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">ASUS ROG STRIX B550-F</a>
+                                <a href="singleProduct.php" class="title link">ASUS ROG STRIX B550-F</a>
                                 <span class="price">$19.99</span>
                             </div>
                         </div>
@@ -295,7 +295,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8 border-0 bg_grey-11">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-3.png"
                                         src="images/products/bark-phone-blue.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-3.png"
@@ -318,7 +318,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -326,7 +326,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">Intel Core i7-12700K</a>
+                                <a href="singleProduct.php" class="title link">Intel Core i7-12700K</a>
                                 <span class="price">$19.99</span>
                             </div>
                         </div>
@@ -334,7 +334,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8 border-0 bg_grey-11">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-1.png"
                                         src="images/products/bark-phone-blue.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-1.png"
@@ -357,7 +357,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -365,7 +365,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">NVIDIA RTX 4080</a>
+                                <a href="singleProduct.php" class="title link">NVIDIA RTX 4080</a>
                                 <span class="price">$19.99</span>
                             </div>
                         </div>
@@ -509,7 +509,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-1.png"
                                         src="images/products/headphone-red2.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-1.png"
@@ -527,7 +527,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -538,7 +538,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">NVIDIA RTX 4080</a>
+                                <a href="singleProduct.php" class="title link">NVIDIA RTX 4080</a>
                                 <span class="price">$199.00</span>
                                 <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                     ADD TO CART
@@ -549,7 +549,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-2.png"
                                         src="images/products/headphone-red2.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-2.png"
@@ -567,7 +567,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -575,7 +575,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">Samsung 970 EVO SSD</a>
+                                <a href="singleProduct.php" class="title link">Samsung 970 EVO SSD</a>
                                 <span class="price">$199.00</span>
                                 <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                     ADD TO CART
@@ -586,7 +586,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-3.png"
                                         src="images/products/headphone-red2.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-3.png"
@@ -604,7 +604,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -615,7 +615,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">Intel Core i7-12700K</a>
+                                <a href="singleProduct.php" class="title link">Intel Core i7-12700K</a>
                                 <span class="price">$199.00</span>
                                 <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                     ADD TO CART
@@ -626,7 +626,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-4.png"
                                         src="images/products/headphone-red2.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-4.png"
@@ -644,7 +644,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -652,7 +652,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">ASUS ROG STRIX B550-F</a>
+                                <a href="singleProduct.php" class="title link">ASUS ROG STRIX B550-F</a>
                                 <span class="price">$199.00</span>
                                 <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                     ADD TO CART
@@ -663,7 +663,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-1.png"
                                         src="images/products/headphone-red2.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-1.png"
@@ -681,7 +681,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -692,7 +692,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">NVIDIA RTX 4080</a>
+                                <a href="singleProduct.php" class="title link">NVIDIA RTX 4080</a>
                                 <span class="price">$199.00</span>
                                 <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                     ADD TO CART
@@ -703,7 +703,7 @@ ob_start();
                     <div class="swiper-slide" lazy="true">
                         <div class="card-product style-8">
                             <div class="card-product-wrapper">
-                                <a href="product-detail.html" class="product-img">
+                                <a href="singleProduct.php" class="product-img">
                                     <img class="lazyload img-product" data-src="assets/images/item/item-1.png"
                                         src="images/products/headphone-red2.jpg" alt="image-product">
                                     <img class="lazyload img-hover" data-src="assets/images/item/item-1.png"
@@ -721,7 +721,7 @@ ob_start();
                                         <span class="tooltip">Add to Compare</span>
                                         <span class="icon icon-check"></span>
                                     </a>
-                                    <a href="#quick_view" data-bs-toggle="modal"
+                                    <a href="singleProduct.php" data-bs-toggle="modal"
                                         class="box-icon bg_white quickview tf-btn-loading">
                                         <span class="icon icon-view"></span>
                                         <span class="tooltip">Quick View</span>
@@ -732,7 +732,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="card-product-info text-center">
-                                <a href="product-detail.html" class="title link">NVIDIA RTX 4080</a>
+                                <a href="singleProduct.php" class="title link">NVIDIA RTX 4080</a>
                                 <span class="price">$199.00</span>
                                 <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                     ADD TO CART
@@ -813,7 +813,7 @@ ob_start();
                         <div class="swiper-slide" lazy="true">
                             <div class="card-product style-8">
                                 <div class="card-product-wrapper">
-                                    <a href="product-detail.html" class="product-img">
+                                    <a href="singleProduct.php" class="product-img">
                                         <img class="lazyload img-product" data-src="assets/images/item/item-1.png"
                                             src="images/products/headphone-red2.jpg" alt="image-product">
                                         <img class="lazyload img-hover" data-src="assets/images/item/item-1.png"
@@ -832,7 +832,7 @@ ob_start();
                                             <span class="tooltip">Add to Compare</span>
                                             <span class="icon icon-check"></span>
                                         </a>
-                                        <a href="#quick_view" data-bs-toggle="modal"
+                                        <a href="singleProduct.php" data-bs-toggle="modal"
                                             class="box-icon bg_white quickview tf-btn-loading">
                                             <span class="icon icon-view"></span>
                                             <span class="tooltip">Quick View</span>
@@ -843,7 +843,7 @@ ob_start();
                                     </div>
                                 </div>
                                 <div class="card-product-info text-center">
-                                    <a href="product-detail.html" class="title link">NVIDIA RTX 4080</a>
+                                    <a href="singleProduct.php" class="title link">NVIDIA RTX 4080</a>
                                     <span class="price">$199.00</span>
                                     <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                         ADD TO CART
@@ -854,7 +854,7 @@ ob_start();
                         <div class="swiper-slide" lazy="true">
                             <div class="card-product style-8">
                                 <div class="card-product-wrapper">
-                                    <a href="product-detail.html" class="product-img">
+                                    <a href="singleProduct.php" class="product-img">
                                         <img class="lazyload img-product" data-src="assets/images/item/item-2.png"
                                             src="images/products/headphone-red2.jpg" alt="image-product">
                                         <img class="lazyload img-hover" data-src="assets/images/item/item-2.png"
@@ -873,7 +873,7 @@ ob_start();
                                             <span class="tooltip">Add to Compare</span>
                                             <span class="icon icon-check"></span>
                                         </a>
-                                        <a href="#quick_view" data-bs-toggle="modal"
+                                        <a href="singleProduct.php" data-bs-toggle="modal"
                                             class="box-icon bg_white quickview tf-btn-loading">
                                             <span class="icon icon-view"></span>
                                             <span class="tooltip">Quick View</span>
@@ -881,7 +881,7 @@ ob_start();
                                     </div>
                                 </div>
                                 <div class="card-product-info text-center">
-                                    <a href="product-detail.html" class="title link">Samsung 970 EVO SSD</a>
+                                    <a href="singleProduct.php" class="title link">Samsung 970 EVO SSD</a>
                                     <span class="price">$199.00</span>
                                     <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                         ADD TO CART
@@ -892,7 +892,7 @@ ob_start();
                         <div class="swiper-slide" lazy="true">
                             <div class="card-product style-8">
                                 <div class="card-product-wrapper">
-                                    <a href="product-detail.html" class="product-img">
+                                    <a href="singleProduct.php" class="product-img">
                                         <img class="lazyload img-product" data-src="assets/images/item/item-3.png"
                                             src="images/products/headphone-red2.jpg" alt="image-product">
                                         <img class="lazyload img-hover" data-src="assets/images/item/item-3.png"
@@ -911,7 +911,7 @@ ob_start();
                                             <span class="tooltip">Add to Compare</span>
                                             <span class="icon icon-check"></span>
                                         </a>
-                                        <a href="#quick_view" data-bs-toggle="modal"
+                                        <a href="singleProduct.php" data-bs-toggle="modal"
                                             class="box-icon bg_white quickview tf-btn-loading">
                                             <span class="icon icon-view"></span>
                                             <span class="tooltip">Quick View</span>
@@ -922,7 +922,7 @@ ob_start();
                                     </div>
                                 </div>
                                 <div class="card-product-info text-center">
-                                    <a href="product-detail.html" class="title link">Intel Core i7-12700K</a>
+                                    <a href="singleProduct.php" class="title link">Intel Core i7-12700K</a>
                                     <span class="price">$199.00</span>
                                     <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                         ADD TO CART
@@ -933,7 +933,7 @@ ob_start();
                         <div class="swiper-slide" lazy="true">
                             <div class="card-product style-8">
                                 <div class="card-product-wrapper">
-                                    <a href="product-detail.html" class="product-img">
+                                    <a href="singleProduct.php" class="product-img">
                                         <img class="lazyload img-product" data-src="assets/images/item/item-4.png"
                                             src="images/products/headphone-red2.jpg" alt="image-product">
                                         <img class="lazyload img-hover" data-src="assets/images/item/item-4.png"
@@ -952,7 +952,7 @@ ob_start();
                                             <span class="tooltip">Add to Compare</span>
                                             <span class="icon icon-check"></span>
                                         </a>
-                                        <a href="#quick_view" data-bs-toggle="modal"
+                                        <a href="singleProduct.php" data-bs-toggle="modal"
                                             class="box-icon bg_white quickview tf-btn-loading">
                                             <span class="icon icon-view"></span>
                                             <span class="tooltip">Quick View</span>
@@ -960,7 +960,7 @@ ob_start();
                                     </div>
                                 </div>
                                 <div class="card-product-info text-center">
-                                    <a href="product-detail.html" class="title link">ASUS ROG STRIX B550-F</a>
+                                    <a href="singleProduct.php" class="title link">ASUS ROG STRIX B550-F</a>
                                     <span class="price">$199.00</span>
                                     <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                         ADD TO CART
@@ -971,7 +971,7 @@ ob_start();
                         <div class="swiper-slide" lazy="true">
                             <div class="card-product style-8">
                                 <div class="card-product-wrapper">
-                                    <a href="product-detail.html" class="product-img">
+                                    <a href="singleProduct.php" class="product-img">
                                         <img class="lazyload img-product" data-src="assets/images/item/item-1.png"
                                             src="images/products/headphone-red2.jpg" alt="image-product">
                                         <img class="lazyload img-hover" data-src="assets/images/item/item-1.png"
@@ -990,7 +990,7 @@ ob_start();
                                             <span class="tooltip">Add to Compare</span>
                                             <span class="icon icon-check"></span>
                                         </a>
-                                        <a href="#quick_view" data-bs-toggle="modal"
+                                        <a href="singleProduct.php" data-bs-toggle="modal"
                                             class="box-icon bg_white quickview tf-btn-loading">
                                             <span class="icon icon-view"></span>
                                             <span class="tooltip">Quick View</span>
@@ -1001,7 +1001,7 @@ ob_start();
                                     </div>
                                 </div>
                                 <div class="card-product-info text-center">
-                                    <a href="product-detail.html" class="title link">NVIDIA RTX 4080</a>
+                                    <a href="singleProduct.php" class="title link">NVIDIA RTX 4080</a>
                                     <span class="price">$199.00</span>
                                     <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                         ADD TO CART
@@ -1012,7 +1012,7 @@ ob_start();
                         <div class="swiper-slide" lazy="true">
                             <div class="card-product style-8">
                                 <div class="card-product-wrapper">
-                                    <a href="product-detail.html" class="product-img">
+                                    <a href="singleProduct.php" class="product-img">
                                         <img class="lazyload img-product" data-src="assets/images/item/item-1.png"
                                             src="images/products/headphone-red2.jpg" alt="image-product">
                                         <img class="lazyload img-hover" data-src="assets/images/item/item-1.png"
@@ -1031,7 +1031,7 @@ ob_start();
                                             <span class="tooltip">Add to Compare</span>
                                             <span class="icon icon-check"></span>
                                         </a>
-                                        <a href="#quick_view" data-bs-toggle="modal"
+                                        <a href="singleProduct.php" data-bs-toggle="modal"
                                             class="box-icon bg_white quickview tf-btn-loading">
                                             <span class="icon icon-view"></span>
                                             <span class="tooltip">Quick View</span>
@@ -1042,7 +1042,7 @@ ob_start();
                                     </div>
                                 </div>
                                 <div class="card-product-info text-center">
-                                    <a href="product-detail.html" class="title link">NVIDIA RTX 4080</a>
+                                    <a href="singleProduct.php" class="title link">NVIDIA RTX 4080</a>
                                     <span class="price">$199.00</span>
                                     <a href="#shoppingCart" data-bs-toggle="modal" class="tf-btn tf-btn-loading">
                                         ADD TO CART

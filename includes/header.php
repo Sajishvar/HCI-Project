@@ -5,7 +5,7 @@
             <div class="tf-top-bar_left">
                 <ul class="d-flex gap-20">
                     <li>
-                        <a href="contact-1.html" class="fw-5">Contact</a>
+                        <a href="./contact.php" class="fw-5">Contact</a>
                     </li>
                     <li>
                         <a href="blog-grid.html" class="fw-5">Blog</a>
@@ -20,7 +20,7 @@
                     data-speed="1000" data-delay="2000">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <p class="top-bar-text fw-5">Spring Sale: Sweet Crunchy Salad.</p>
+                            <p class="top-bar-text fw-5">Spring Sale: ROG arrives.</p>
                         </div>
                         <div class="swiper-slide">
                             <p class="top-bar-text fw-5">Summer sale discount off 70%</p>
@@ -168,7 +168,7 @@
                         <li class="nav-compare"><a href="compare.html"
                                 class="nav-icon-item align-items-center gap-10"><i class="icon icon-compare"></i><span
                                     class="text">Compare</span></a></li>
-                        <li class="nav-wishlist"><a href="wishlist.html"
+                        <li class="nav-wishlist"><a href="./wishList.php"
                                 class="nav-icon-item  align-items-center gap-10"><i class="icon icon-heart"></i><span
                                     class="text">Wishlist</span></a></li>
                         <li class="nav-cart cart-lg"><a href="./viewCart.php" data-bs-toggle="modal"
@@ -302,8 +302,8 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="menu-item"><a href="#" class="item-link">About us</a></li>
-                            <li class="menu-item"><a href="#" class="item-link">Contact us</a></li>
+                            <li class="menu-item"><a href="./about.php" class="item-link">About us</a></li>
+                            <li class="menu-item"><a href="./contact.php" class="item-link">Contact us</a></li>
                         </ul>
                     </nav>
                 </div>
